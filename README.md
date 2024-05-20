@@ -68,8 +68,8 @@ git pull or git pull origin main =>
 	 immediately update the local repository to match that content
 
 ```
+![image](https://github.com/Raviteja654321/Git_Training/assets/94986564/409be679-87ae-4ca2-a0b5-1b0b4570a495)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5e772b93-1b52-4c6a-a2ee-5bea5cac0802/249d1052-1975-40b8-a0e2-34b1934cfc58/Untitled.png)
 
 Git push
 
@@ -144,3 +144,16 @@ Git rebase | Git rebase -i
 git rebase <branch>
 
 ```
+
+<img width="743" alt="image" src="https://github.com/Raviteja654321/Git_Training/assets/94986564/8d5eb005-ad66-411a-ae6f-8aac42d7691a">
+
+
+<img width="716" alt="image" src="https://github.com/Raviteja654321/Git_Training/assets/94986564/0cc2c48b-0648-47a9-84fe-57f23a2acebe">
+
+
+2.
+
+
+1 commit behind, 3 commits ahead,
+
+commit local changes → pull → merge → commit after merging → push.

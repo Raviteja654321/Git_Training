@@ -13,4 +13,7 @@ console.log(output())
 // global change in index.js
 // local change in index.js
 
+console.log("Web console log change")
+
+
 console.log("Local console log change")

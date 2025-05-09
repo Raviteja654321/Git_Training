@@ -10,3 +10,4 @@ let output = ()=> {return 2+5}
 console.log(output())
 
 // change in index.js
+// global change in index.js
